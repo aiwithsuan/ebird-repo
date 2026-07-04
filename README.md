@@ -16,4 +16,85 @@ The long-term vision is to build an intelligent companion that helps answer ques
 * How have bird populations changed over time?
 * What species can I expect to see on a trip?
 
-  
+## Project Goals
+
+This project demonstrates an end-to-end modern data workflow, including:
+
+* Data ingestion from eBird datasets
+* Data cleaning and quality checks
+* Data modelling
+* SQL analytics
+* Interactive dashboards
+* Geospatial analysis
+* Machine learning (future)
+* AI-assisted birding recommendations (future)
+
+## Technology Stack
+
+* SQL
+# Python
+* Git & GitHub
+* dbt
+* Power BI
+* Azure Data Factory
+* Azure SQL Database
+* Azure Data Lake Storage
+* Microsoft Fabric (planned)
+
+## Project Roadmap
+
+Phase 1 – Data Foundation
+* Import eBird datasets
+* Design relational data model
+* Build ETL pipelines
+* Clean and validate observations
+
+Phase 2 – Analytics
+* Species trends
+* Seasonal migration analysis
+* Birding hotspot rankings
+* Photographer-friendly reports
+
+Phase 3 – Visualization
+* Interactive maps
+* Species dashboards
+* Regional statistics
+* Observation heatmaps
+
+Phase 4 – Intelligent Companion
+* Predict likely bird sightings
+* Recommend birding locations
+$ Suggest best photography times
+* AI-powered search and insights
+
+## Why this Project?
+
+As a passionate bird photographer and data professional, I wanted to combine my interests in conservation, citizen science, and modern data engineering.
+
+This repository serves as both a personal learning journey and a portfolio project demonstrating practical skills in data engineering, analytics, and visualization using real-world datasets.
+
+## Data Source
+
+This project uses publicly available observation data from the eBird citizen science program.  
+
+## Status
+
+🚧 Work in Progress
+
+The repository is under active development, with new datasets, analyses, and visualizations added over time.
+
+## Future Ideas
+
+* Bird photography planner
+* Rare bird alert dashboard
+* Migration forecasting
+* Habitat analysis
+* Weather integration
+* Mobile-friendly dashboard
+* AI birding assistant
+
+## Contributions
+
+Suggestions, ideas, and feedback are welcome.
+
+Happy birding! 🐦📷
