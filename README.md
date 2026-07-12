@@ -79,7 +79,7 @@ This project uses publicly available observation data from the eBird citizen sci
 
 ## Status
 
-🚧 Work in Progress
+Work in Progress
 
 The repository is under active development, with new datasets, analyses, and visualizations added over time.
 
@@ -97,4 +97,4 @@ The repository is under active development, with new datasets, analyses, and vis
 
 Suggestions, ideas, and feedback are welcome.
 
-Happy birding! 🐦📷
+Happy birding!
